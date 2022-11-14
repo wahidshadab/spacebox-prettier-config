@@ -1,0 +1,9 @@
+{
+  "name": "@wahidshadab/spacebox-prettier-config",
+  "version": "1.0.0",
+  "description": "This is to share the same prettier auto format accross the Spacebox's team.",
+  "main": "index.json",
+  "repository": "git@github.com:wahidshadab/spacebox-prettier-config.git",
+  "author": "Wahidullah Shadab",
+  "license": "MIT"
+}
